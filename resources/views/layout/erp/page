@@ -1,0 +1,8 @@
+@extends('layout.erp.app')
+@section('title','Manage user')
+
+
+@section('content')
+    <p>Print user list here</p>
+    afsana banaya ke vul na jana
+@endsection
